@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../Project/WebSite"
+		},
+		{
+			"name": "20241113_WS2812_Clock",
+			"path": ".."
+		},
+		{
+			"path": "../../../../../../../../Project/esp8266/20211011_ws2811_clock"
+		}
+	],
+	"settings": {}
+}
