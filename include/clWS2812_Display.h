@@ -8,7 +8,7 @@
 class clWS2812_Display
 {
 private:
-    clWS2812_Digit digit[4];
+    clWS2812_Digit digits[4];
     clWS2812_DayOfWeek dayofweek;
     clWS2812_Separator separator;
     clWS2812_DP dp;

@@ -9,7 +9,7 @@ clWS2812_Segment::clWS2812_Segment(){
     }    
 }
 
-clWS2812_Segment::clWS2812_Segment(char namesegment, uint8_t startled)
+clWS2812_Segment::clWS2812_Segment(uint8_t namesegment, uint8_t startled)
 {
     segmentname = namesegment;
     setSegmentDefault(startled);

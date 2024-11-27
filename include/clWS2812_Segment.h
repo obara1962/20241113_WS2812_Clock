@@ -11,7 +11,7 @@ class clWS2812_Segment{
 		char getSegmentName() { return segmentname;}
 
 		clWS2812_Segment();
-		clWS2812_Segment(char namesegment, uint8_t startled);
+		clWS2812_Segment(uint8_t namesegment, uint8_t startled);
 		~clWS2812_Segment();
 
 		void setSegmentDefault(uint8_t startnum);

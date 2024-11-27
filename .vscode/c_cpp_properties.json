@@ -10,6 +10,7 @@
             "includePath": [
                 "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/include",
                 "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/src",
+                "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/.pio/libdeps/nodemcu-32s/RTC/src",
                 "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/.pio/libdeps/nodemcu-32s/Adafruit NeoPixel",
                 "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/.pio/libdeps/nodemcu-32s/Adafruit SSD1306",
                 "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/.pio/libdeps/nodemcu-32s/Adafruit GFX Library",
@@ -241,6 +242,7 @@
                 "path": [
                     "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/include",
                     "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/src",
+                    "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/.pio/libdeps/nodemcu-32s/RTC/src",
                     "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/.pio/libdeps/nodemcu-32s/Adafruit NeoPixel",
                     "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/.pio/libdeps/nodemcu-32s/Adafruit SSD1306",
                     "C:/Users/obara/Documents/PlatformIO/Projects/20241113_WS2811Clock/20241113_WS2812_Clock-1/.pio/libdeps/nodemcu-32s/Adafruit GFX Library",
